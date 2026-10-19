@@ -1,0 +1,20 @@
+{
+  "title": "CozyClay",
+  "description": "The original CozyClay 3D staging Studio and Workflow canvas.",
+  "icon": "icon.png",
+  "links": [
+    {
+      "title": "CozyClay",
+      "links": [
+        {
+          "title": "GitHub",
+          "value": "https://github.com/NomaDamas/CozyClay"
+        },
+        {
+          "title": "Website",
+          "value": "https://cozyclay.org"
+        }
+      ]
+    }
+  ]
+}

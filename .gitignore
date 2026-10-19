@@ -1,0 +1,6 @@
+/app/
+/logs/
+/cache/
+/ENVIRONMENT
+/.env
+/.DS_Store
